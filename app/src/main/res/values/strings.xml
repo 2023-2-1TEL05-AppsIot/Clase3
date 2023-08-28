@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Clase3</string>
+    <string-array name="elementos">
+        <item>Leonardo</item>
+        <item>Kevin</item>
+        <item>Angel</item>
+        <item>Gustavo</item>
+    </string-array>
+</resources>
